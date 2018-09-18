@@ -1,0 +1,134 @@
+body {
+    background: #544a7d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ffd452, #544a7d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #ffd452, #544a7d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.jumbotron {
+    width: 800px;
+    height: 500px;
+    margin: 180px auto;
+    border-radius: 10px;
+    background-color: #faf17cb7;
+    
+}
+
+.heading {
+    width: 800px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.col {
+    text-align: center;
+   
+}
+
+.numbers {
+    margin-top: 50px;
+}
+#num1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: black;
+    display: inline-block;
+    margin: 2px;
+    font-size: 60px;
+    border: none;
+    border-radius: 100px;
+    
+}
+
+#num2 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    color: black;
+    display: inline-block;
+    margin: 2px;
+    font-size: 60px;
+    border: none;
+    border-radius: 100px;
+}
+
+#num3 {
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+    color: black;
+    display: inline-block;
+    margin: 2px;
+    font-size: 60px;
+    border: none;
+    border-radius: 100px;
+}
+
+#num4 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: black;
+    display: inline-block;
+    margin: 2px;
+    font-size: 60px;
+    border: none;
+    border-radius: 100px;
+}
+
+#num5 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    margin: 2px;
+    font-size: 60px;
+    border: none;
+    border-radius: 100px;
+}
+
+#num6 {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    color: black;
+    display: inline-block;
+    margin: 2px;
+    font-size: 60px;
+    border: none;
+    border-radius: 100px;
+}
+
+#bonusNumber {
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    color: black;
+    margin: 2px;
+    font-size: 60px;
+    text-align: center;    
+    border: none;
+    border-radius: 100px;
+}
+
+.btn {
+    width: 200px;
+    margin: 50px 250px 0 250px;
+    background-color: #ee8829;
+    border: none;
+    outline: none;
+    transition: all 1000ms;
+}
+
+.btn:hover {
+    background-color: #ee8829;
+    transform: scale(1.3);
+    border: none;
+    outline: none;
+}
